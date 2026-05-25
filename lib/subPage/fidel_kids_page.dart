@@ -1,4 +1,4 @@
-// fidel/lib/kids_page.dart
+
 
 import 'package:flutter/material.dart';
 import 'package:fidel/service/fidel.dart';
