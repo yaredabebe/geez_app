@@ -1,16 +1,78 @@
-# fidel
+# Geez Quiz
 
-A new Flutter project.
+Geez Quiz is an educational Flutter application designed to help users learn Geez numbers and Amharic letters through interactive lessons, quizzes, and visual learning activities.
+
+## Features
+
+* Learn Geez numbers from basic to advanced levels
+* Learn Amharic (Fidel) letters
+* Interactive number quizzes
+* Picture-based learning activities
+* Multiple-choice challenges
+* Child-friendly and easy-to-use interface
+* Offline learning experience
+
+## Screenshots
+
+Add screenshots of the application here.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+* Flutter SDK
+* Android Studio or VS Code
+* Android Emulator or Physical Device
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/geez-quiz.git
+```
+
+Navigate to the project directory:
+
+```bash
+cd geez-quiz
+```
+
+Install dependencies:
+
+```bash
+flutter pub get
+```
+
+Run the application:
+
+```bash
+flutter run
+```
+
+## Build Release
+
+APK:
+
+```bash
+flutter build apk --release
+```
+
+Android App Bundle (Google Play):
+
+```bash
+flutter build appbundle --release
+```
+
+## Technology Stack
+
+* Flutter
+* Dart
+* Material Design
+
+## Contributing
+
+Contributions are welcome. Feel free to open issues, suggest improvements, or submit pull requests.
+
+
+
