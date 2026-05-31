@@ -29,7 +29,7 @@ Add screenshots of the application here.
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/geez-quiz.git
+git clone https://github.com/yaredabebe/geez-quiz.git
 ```
 
 Navigate to the project directory:
